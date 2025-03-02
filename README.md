@@ -13,6 +13,6 @@ This repository contains MATLAB and Simulink implementations for vehicle control
 
 ## Requirements
 
-- MATLAB (specify version)
-- Simulink (specify version)
+- MATLAB
+- Simulink
 - Additional Toolboxes: Control Systems Toolbox, Optimization Toolbox, etc.
